@@ -1,0 +1,41 @@
+﻿@charset "utf-8";
+/**
+ Written by:wanghuan
+ Created Date: 2013-05-14
+ Copyright：2005-2013 www.techholder.com Inc. All rights reserved.
+**/
+/*Initialization style*/
+body{color:#000;background:#fff;font:12px/1.5 Tahoma,Helvetica,Arial,sans-serif;}
+html,body,form,input,select,textarea,div,p,h1,h2,h3,h4,h5,h6,p,ul,ol,li,form,img,dl,dt,dd,table,th,td,blockquote,fieldset,div,strong,label,em{margin:0;padding:0;}
+ul,li,dl,dt,dd{list-style:none;float:left;}
+h1,h2{font-weight:bold;font-size:14px;color:#303030;text-align:justify;text-justify:inter-ideograph;}
+table,td,img{border:0;}
+table,tr,td{border-collapse:collapse;border-spacing:0;}
+a:link,a:visited{color:#0fa7ff;text-decoration:none;outline:none;cursor: pointer;}
+a:hover{color:#ff6407;text-decoration:underline;}
+.clear{clear:both;}
+.thRelative{position:relative;top:0;left:0;}
+
+
+/*======== travel_banner start =======*/
+.travel_banner{width:980px;margin:0 auto;height:220px;}
+.travel_focus{width:980px;height:220px;overflow:hidden;position:relative;}
+.travel_focus ul{height:980px; position:absolute;}
+.travel_focus ul li{width:980px;height:220px;overflow:hidden; position:relative; background:#000;}
+.travel_focus ul li div{position:absolute; overflow:hidden;}
+.travel_focus .btn {position:absolute;height:22px;left:392px;bottom:10px;z-index:200;}
+.travel_focus .btn span {display:inline-block; _display:inline; _zoom:1;text-align:center;color:#fff;width:22px;height:22px;line-height:20px;_font-size:0; margin-left:10px; cursor:pointer; background:#333;}
+.travel_focus .btn span.on {background:#FF6600;}
+.travel_focus .preNext{width:45px;height:50px;position:absolute;top:80px;background:url(images/destin_main.png) no-repeat -4px -52px; cursor:pointer;}
+.travel_focus .pre {left:0;}
+.travel_focus .next {right:0; background-position:-50px 0;}
+/*======== travel_banner end =======*/
+
+
+.travel_listimg,.travel_listimg ul,.travel_listimg ul li{width:700px;}
+.travel_listimg .btn span{-webkit-border-radius:12px;-moz-border-radius:12px;border-radius:12px;margin-left:5px;}
+.travel_listimg .travel_btn{width:700px;height:32px;position:relative;left:0;top:188px;}
+.travel_listimg .travel_btn_bg{position:absolute;left:0;bottom:0;width:700px;height:32px;background:#333;opacity:0.66;filter:alpha(opacity = 66);z-index:1;}
+.travel_listimg .btn{left:510px;bottom:5px;}
+.travel_listimg .travel_btn_text{color:#fff;position:absolute;left:10px;bottom:0;height:32px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;line-height:32px;z-index:100;font-size:14px;}
+.travel_listimg .travel_btn_text p{height:32px;overflow:hidden;position:relative;}

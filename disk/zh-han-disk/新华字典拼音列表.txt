@@ -1,0 +1,430 @@
+¨¡  ¨¢  ¨£  ¨¤
+¨»i  ¨¡i  ¨¢i  ¨£i ¨¤i 
+¨¡n  ¨¢n  ¨£n  ¨¤n
+¨¡n¨À  ¨¢n¨À  ¨¤n¨À
+¨»o  ¨¡o  ¨¢o  ¨£o  ¨¤o
+
+b¨»  b¨¡  b¨¢  b¨£  b¨¤
+b¨»i  b¨¡i  b¨¢i  b¨£i  b¨¤i
+b¨»n  b¨¡n  b¨£n  b¨¤n
+b¨¡n¨À b¨£n¨À  b¨¤n¨À
+b¨»o  b¨¡o  b¨¢o  b¨£o  b¨¤o
+bei  b¨¥i  b¨§i  b¨¨i
+b¨¥n  b¨§n  b¨¨n
+b¨¥n¨À  b¨¦n¨À  b¨§n¨À  b¨¨n¨À
+b¨©  b¨ª  b¨«  b¨¬
+bi¨»n  bi¨¡n  bi¨£n  bi¨¤n
+bi¨¡o  bi¨¢o  bi¨£o  bi¨¤o
+bi¨¥  bi¨¦  bi¨§  bi¨¨
+b¨©n  b¨¬n
+bin¨À  b¨©n¨À  b¨«n¨À  b¨¬n¨À
+bo  b¨­  b¨®  b¨¯  b¨°
+bu  b¨±  b¨²  b¨³  b¨´
+
+c¨»  c¨¡  c¨£  c¨¤
+c¨¡i  c¨¢i  c¨£i  c¨¤i
+c¨»n  c¨¡n  c¨¢n  c¨£n  c¨¤n
+c¨»n¨À  c¨¡n¨À  c¨¢n¨À  c¨¤n¨À
+c¨¡o  c¨¢o  c¨£o  c¨¤o
+ce  c¨¨
+c¨¥n  c¨¦n
+c¨¥n¨À  c¨¦n¨À  c¨¨n¨À
+ch¨¡  ch¨¢  ch¨£  ch¨¤
+ch¨¡i  ch¨¢i  ch¨¤i
+ch¨¡n  ch¨¢n  ch¨£n  ch¨¤n
+ch¨¡n¨À  ch¨¢n¨À  ch¨£n¨À  ch¨¤n¨À
+ch¨¡o  ch¨¢o  ch¨£o  ch¨¤o
+ch¨¥  ch¨§  ch¨¨
+chen  ch¨¥n  ch¨¦n  ch¨§n  ch¨¨n
+ch¨¥n¨À  ch¨¦n¨À  ch¨§n¨À  ch¨¨n¨À
+ch¨©  ch¨ª  ch¨«  ch¨¬
+ch¨­n¨À  ch¨®n¨À  ch¨¯n¨À  ch¨°n¨À
+ch¨­u  ch¨®u  ch¨¯u  ch¨°u
+chu  ch¨±  ch¨²  ch¨³  ch¨´
+chu¨¡
+chu¨¡i  chu¨¢i  chu¨£i  chu¨¤i
+chu¨¡n  chu¨¢n  chu¨£n  chu¨¤n
+chu¨¡n¨À  chu¨¢n¨À  chu¨£n¨À  chu¨¤n¨À
+chu¨©  chu¨ª  
+ch¨±n  ch¨²n  ch¨³n
+chu¨­  chu¨°
+c¨©  c¨ª  c¨«  c¨¬
+c¨­n¨À  c¨®n¨À  c¨°n¨À
+c¨°u
+c¨±  c¨²  c¨´
+cu¨¡n  cu¨¢n  cu¨¤n
+cu¨©  cu¨«  cu¨¬
+c¨±n  c¨²n  c¨³n  c¨´n
+cu¨­  cu¨®  cu¨¯  cu¨°
+
+d¨»  d¨¡  d¨¢  d¨£  d¨¤
+d¨¡i  d¨£i  d¨¤i
+d¨¡n  d¨£n  d¨¤n
+d¨¡n¨À  d¨£n¨À  d¨¤n¨À
+d¨»o  d¨¡o  d¨¢o  d¨£o  d¨¤o
+de  d¨¥   d¨¦
+d¨¨n
+d¨¥i  d¨§i
+den¨À  d¨¥n¨À  d¨§n¨À  d¨¨n¨À
+d¨©  d¨ª  d¨«  d¨¬
+di¨£
+di¨»n  di¨¡n  di¨£n  di¨¤n
+di¨¡o  di¨£o  di¨¤o
+die  di¨¥  di¨¦
+d¨©n¨À  d¨«n¨À  d¨¬n¨À
+di¨±
+d¨­n¨À  d¨¯n¨À  d¨°n¨À
+dou  d¨­u  d¨¯u  d¨°u
+du  d¨±  d¨²  d¨³  d¨´
+du¨¡n  du¨£n  du¨¤n
+du¨©  du¨¬
+dun  d¨±n  d¨³n  d¨´n
+duo  du¨­  du¨®  du¨¯  du¨°
+
+e  ¨¥  ¨¦  ¨§  ¨¨
+¨¥i
+¨¥n  ¨§n  ¨¨n
+en¨À  ¨¥n¨À
+er  ¨¥r  ¨¦r  ¨§r  ¨¨r
+
+f¨»  f¨¡  f¨¢  f¨£  f¨¤
+f¨¡n  f¨¢n  f¨£n  f¨¤n
+f¨¡n¨À  f¨¢n¨À  f¨£n¨À  f¨¤n¨À
+f¨¥i  f¨¦i  f¨§i  f¨¨i
+f¨¥n  f¨¦n  f¨§n  f¨¨n
+f¨¥n¨À  f¨¦n¨À  f¨§n¨À  f¨¨n¨À
+f¨®
+f¨®u  f¨¯u
+f¨±  f¨²  f¨³  f¨´
+
+¨À¨»  ¨À¨¡  ¨À¨¢  ¨À¨£  ¨À¨¤
+¨À¨¡i  ¨À¨£i  ¨À¨¤i
+¨À¨¡n  ¨À¨£n  ¨À¨¤n
+¨À¨¡n¨À  ¨À¨£n¨À  ¨À¨¤n¨À
+¨À¨»o  ¨À¨¡o  ¨À¨£o  ¨À¨¤o
+¨Àe  ¨À¨¥  ¨À¨¦  ¨À¨§  ¨À¨¨
+¨À¨§i
+¨À¨¥n  ¨À¨§n  ¨À¨¨n
+¨À¨¥n¨À  ¨À¨§n¨À  ¨À¨¨n¨À
+¨À¨­n¨À  ¨À¨¯n¨À  ¨À¨°n¨À
+¨À¨­u  ¨À¨¯u  ¨À¨°u
+¨À¨±  ¨À¨²  ¨À¨³  ¨À¨´
+¨Àu¨¡  ¨Àu¨£  ¨Àu¨¤
+¨Àu¨¡i  ¨Àu¨¢i  ¨Àu¨£i  ¨Àu¨¤i
+¨Àu¨¡n  ¨Àu¨£n  ¨Àu¨¤n
+¨Àu¨¡n¨À  ¨Àu¨£n¨À  ¨Àu¨¤n¨À
+¨Àu¨©  ¨Àu¨«  ¨Àu¨¬
+¨À¨³n  ¨À¨´n
+¨Àu¨­  ¨Àu¨®  ¨Àu¨¯  ¨Àu¨°
+
+h¨»  h¨¡  h¨¢  h¨£  h¨¤
+h¨¡i  h¨¢i  h¨£i  h¨¤i
+h¨»n  h¨¡n  h¨¢n  h¨£n  h¨¤n
+h¨¡n¨À  h¨¢n¨À  h¨¤n¨À
+h¨¡o  h¨¢o   h¨£o  h¨¤o
+h¨¥  h¨¦  h¨¨
+h¨¥i
+h¨¦n  h¨§n  h¨¨n
+h¨¥n¨À  h¨¦n¨À  h¨¨n¨À
+h¨­n¨À  h¨®n¨À  h¨¯n¨À  h¨°n¨À
+h¨­u  h¨®u  h¨¯u  h¨°u
+h¨±  h¨²  h¨³  h¨´
+hu¨¡  hu¨¢  hu¨¤
+hu¨»i  hu¨¢i  hu¨¤i
+hu¨¡n  hu¨¢n  hu¨£n  hu¨¤n
+hu¨¡n¨À  hu¨¢n¨À  hu¨£n¨À  hu¨¤n¨À
+hu¨©  hu¨ª  hu¨«  hu¨¬
+h¨±n  h¨²n  h¨³n  h¨´n
+huo  hu¨­  hu¨®  hu¨¯  hu¨°
+
+j¨©  j¨ª  j¨«  j¨¬
+ji¨¡  ji¨¢  ji¨£  ji¨¤
+ji¨¡n  ji¨£n  ji¨¤n
+ji¨¡n¨À  ji¨£n¨À  ji¨¤n¨À
+ji¨¡o  ji¨¢o  ji¨£o  ji¨¤o
+ji¨¥  ji¨¦  ji¨§  ji¨¨
+j¨©n  j¨«n  j¨¬n
+j¨©n¨À  j¨«n¨À  j¨¬n¨À
+ji¨­n¨À  ji¨¯n¨À
+ji¨±  ji¨³  ji¨´
+j¨±  j¨²  j¨³  j¨´
+ju¨¡n  ju¨£n  ju¨¤n
+ju¨¥  ju¨¦  ju¨¨
+j¨±n  j¨´n
+
+k¨¡  k¨£
+k¨¡i  k¨£i  k¨¤i
+k¨¡n  k¨£n  k¨¤n
+k¨¡n¨À  k¨¢n¨À  k¨¤n¨À
+k¨¡o  k¨£o  k¨¤o
+k¨¥  k¨¦  k¨§  k¨¨
+k¨§n  k¨¨n
+k¨¥n¨À
+k¨­n¨À  k¨¯n¨À  k¨°n¨À
+k¨­u  k¨¯u  k¨°u
+k¨±  k¨³  k¨´
+ku¨¡  ku¨£  ku¨¤
+ku¨»i  ku¨£i  ku¨¤i
+ku¨¡n  ku¨£n  
+ku¨¡n¨À  ku¨¢n¨À  ku¨£n¨À  ku¨¤n¨À
+ku¨©  ku¨ª  ku¨«  ku¨¬
+k¨±n  k¨³n  k¨´n
+ku¨°
+
+l¨»  l¨¡  l¨¢  l¨£  l¨¤
+l¨¡i  l¨¢i  l¨£i  l¨¤i
+l¨¢n  l¨£n  l¨¤n
+l¨¢n¨À  l¨£n¨À  l¨¤n¨À
+l¨¡o  l¨¢o  l¨£o  l¨¤o
+le  l¨¥  l¨¨
+lei  l¨¥i  l¨¦i  l¨§i  l¨¨i
+l¨¥n¨À  l¨¦n¨À  l¨§n¨À  l¨¨n¨À
+li  l¨©  l¨ª  l¨«  l¨¬
+li¨£
+li¨¢n  li¨£n  li¨¤n
+li¨»n¨À  li¨¢n¨À  li¨£n¨À  li¨¤n¨À
+li¨¡o  li¨¢o  li¨£o  li¨¤o
+lie  li¨§  li¨¨
+l¨©n  l¨ªn  l¨«n  l¨¬n
+l¨ªn¨À  l¨«n¨À  l¨¬n¨À
+li¨±  li¨²  li¨³  li¨´
+l¨®n¨À  l¨¯n¨À  l¨°n¨À
+lou  l¨­u  l¨®u  l¨¯u  l¨°u
+l¨±  l¨²  l¨³  l¨´
+l¨¶  l¨·  l¨¸
+lu¨¢n  lu¨£n  lu¨¤n
+l¨¹¨¨
+l¨±n  l¨²n  l¨³n  l¨´n
+luo  lu¨­  lu¨®  lu¨¯  lu¨°
+
+m¨¡  m¨¢  m¨£  m¨¤
+m¨¢i  m¨£i  m¨¤i
+m¨¡n  m¨¢n  m¨£n  m¨¤n
+m¨¡n¨À  m¨¢n¨À  m¨£n¨À
+m¨¡o  m¨¢o  m¨£o  m¨¤o
+me  m¨¥
+m¨¦i  m¨§i  m¨¨i
+men  m¨¥n  m¨¦n  m¨¨n
+m¨¥n¨À  m¨¦n¨À  m¨§n¨À  m¨¨n¨À
+mi  m¨©  m¨ª  m¨«  m¨¬
+mi¨¢n  mi¨£n  mi¨¤n
+mi¨¡o  mi¨¢o  mi¨£o  mi¨¤o
+mie  mi¨¥  mi¨¨
+m¨ªn  m¨«n
+m¨ªn¨À  m¨«n¨À  m¨¬n¨À
+mi¨´
+m¨­  m¨®  m¨¯  m¨°
+m¨­u  m¨®u  m¨¯u
+m¨²  m¨³  m¨´
+
+n¨¡  n¨¢  n¨£  n¨¤
+n¨¢i  n¨£i  n¨¤i
+n¨¡n  n¨¢n  n¨£n  n¨¤n
+n¨»n¨À  n¨¡n¨À  n¨¢n¨À  n¨£n¨À  n¨¤n¨À
+n¨¡o  n¨¢o  n¨£o  n¨¤o
+n¨¥  n¨¨
+n¨§i  n¨¨i
+n¨¨n
+n¨¦n¨À
+n¨©  n¨ª  n¨«  n¨¬
+ni¨¡n  ni¨¢n  ni¨£n  ni¨¤n
+ni¨¢n¨À  ni¨¤n¨À
+ni¨£o  ni¨¤o
+ni¨¥  ni¨¦  ni¨¨
+n¨ªn  n¨«n
+n¨ªn¨À  n¨¬n¨À
+ni¨±  ni¨²  ni¨³  ni¨´
+n¨®n¨À  n¨¯n¨À  n¨°n¨À
+n¨®u  n¨°u
+n¨±  n¨²  n¨³  n¨´
+n¨·  n¨¸
+nu¨¢n  nu¨£n
+n¨¹¨¨
+nu¨®  nu¨°
+n¨²n
+
+¨­  ¨®
+¨­u  ¨¯u  ¨°u
+
+p¨¡  p¨¢  p¨¤
+p¨¡i  p¨¢i  p¨£i  p¨¤i
+p¨¡n  p¨¢n  p¨£n  p¨¤n
+p¨¡n¨À  p¨¢n¨À  p¨£n¨À  p¨¤n¨À
+p¨¡o  p¨¢o  p¨£o  p¨¤o
+p¨¥i  p¨¦i  p¨§i  p¨¨i
+p¨¥n  p¨¦n  p¨§n  p¨¨n
+p¨¥n¨À  p¨¦n¨À  p¨§n¨À  p¨¨n¨À
+p¨©  p¨ª  p¨«  p¨¬
+pi¨¡n  pi¨¢n  pi¨£n  pi¨¤n
+pi¨¡o  pi¨¢o  pi¨£o  pi¨¤o
+pi¨¥  pi¨§  pi¨¨
+p¨©n  p¨ªn  p¨«n  p¨¬n
+p¨©n¨À  p¨ªn¨À  p¨«n¨À
+p¨­  p¨®  p¨¯  p¨°
+p¨­u  p¨®u  p¨¯u
+p¨±  p¨²  p¨³  p¨´
+
+q¨©  q¨ª  q¨«  q¨¬
+qi¨¡  qi¨¢  qi¨£  qi¨¤
+qi¨¡n  qi¨¢n  qi¨£n  qi¨¤n
+qi¨¡n¨À  qi¨¢n¨À  qi¨£n¨À  qi¨¤n¨À
+qi¨¡o  qi¨¢o  qi¨£o  qi¨¤o
+qi¨¥  qi¨¦  qi¨§  qi¨¨
+q¨©n  q¨ªn  q¨«n  q¨¬n
+q¨©n¨À  q¨ªn¨À  q¨«n¨À  q¨¬n¨À
+qi¨­n¨À  qi¨®n¨À
+qi¨±  qi¨²  qi¨³
+qu  q¨±  q¨²  q¨³  q¨´
+qu¨¡n  qu¨¢n  qu¨£n  qu¨¤n
+qu¨¥  qu¨¨
+q¨±n  q¨²n
+
+r¨¢n  r¨£n
+r¨¡n¨À  r¨¢n¨À  r¨£n¨À  r¨¤n¨À
+r¨¢o  r¨£o  r¨¤o
+r¨¥  r¨§  r¨¨
+r¨¦n  r¨§n  r¨¨n
+r¨¥n¨À  r¨¦n¨À
+r¨©  r¨¬
+r¨®n¨À  r¨¯n¨À
+r¨®u  r¨¯u  r¨°u
+r¨²  r¨³  r¨´
+ru¨¢n  ru¨£n
+ru¨ª  ru¨«  ru¨¬
+r¨´n
+ru¨®  ru¨°
+
+s¨¡  s¨£  s¨¤
+s¨¡i  s¨£i  s¨¤i
+s¨¡n  s¨£n  s¨¤n
+s¨¡n¨À  s¨£n¨À  s¨¤n¨À
+s¨¡o  s¨£o  s¨¤o
+s¨¥  s¨¨
+s¨¥n
+s¨¥n¨À
+sh¨¡  sh¨¢  sh¨£  sh¨¤
+sh¨¡i  sh¨£i  sh¨¤i
+sh¨¡n  sh¨£n  sh¨¤n
+sh¨¡n¨À  sh¨£n¨À  sh¨¤n¨À
+sh¨¢o  sh¨¢o  sh¨£o  sh¨¤o
+sh¨¥  sh¨¦  sh¨§  sh¨¨
+sh¨¦i
+sh¨¥n  sh¨¦n  sh¨§n  sh¨¨n
+shen¨À  sh¨¥n¨À  sh¨¦n¨À  sh¨§n¨À  sh¨¨n¨À
+sh¨©  sh¨ª  sh¨«  sh¨¬
+sh¨­u  sh¨®u  sh¨¯u  sh¨°u
+sh¨±  sh¨²  sh¨³  sh¨´
+shu¨¡  shu¨£  shu¨¤
+shu¨¡i  shu¨£i  shu¨¤i
+shu¨¡n  shu¨¤n
+shu¨¡n¨À  shu¨£n¨À  shu¨¤n¨À
+shu¨ª  shu¨«  shu¨¬
+sh¨±n  sh¨³n  sh¨´n
+shu¨­  shu¨°
+s¨©  s¨«  s¨¬
+s¨­n¨À  s¨¯n¨À  s¨°n¨À
+s¨­u  s¨¯u  s¨°u
+s¨±  s¨²  s¨´
+su¨¡n  su¨£n  su¨¤n
+sui  su¨©  su¨ª  su¨«  su¨¬
+s¨±n  s¨³n  s¨´n
+suo  su¨­  su¨¯  su¨°
+
+t¨»  t¨¡  t¨£  t¨¤
+t¨¡i  t¨¢i  t¨£i  t¨¤i
+t¨¡n  t¨¢n  t¨£n  t¨¤n
+t¨¡n¨À  t¨¢n¨À  t¨£n¨À  t¨¤n¨À
+t¨¡o  t¨¢o  t¨£o  t¨¤o
+te  t¨¥  t¨¨
+t¨¥n¨À  t¨¦n¨À
+t¨©  t¨ª  t¨«  t¨¬
+ti¨¡n  ti¨¢n  ti¨£n  ti¨¤n
+ti¨¡o  ti¨¢o  ti¨£o  ti¨¤o
+ti¨¥  ti¨§  ti¨¨
+t¨©n¨À  t¨ªn¨À  t¨«n¨À  t¨¬n¨À
+t¨­n¨À  t¨®n¨À  t¨¯n¨À  t¨°n¨À
+tou  t¨­u  t¨®u  t¨¯u  t¨°u
+tu  t¨±  t¨²  t¨³  t¨´
+tu¨¡n  tu¨¢n  tu¨£n  tu¨¤n
+tu¨©  tu¨ª  tu¨«  tu¨¬
+tun  t¨±n  t¨²n  t¨³n  t¨´n
+tu¨­  tu¨®  tu¨¯  tu¨°
+
+w¨»  w¨¡  w¨¢  w¨£  w¨¤
+w¨¡i  w¨£i  w¨¤i
+w¨»n  w¨¡n  w¨¢n  w¨£n  w¨¤n
+w¨¡n¨À  w¨¢n¨À  w¨£n¨À  w¨¤n¨À
+w¨¥i  w¨¦i  w¨§i  w¨¨i
+w¨¥n  w¨¦n  w¨§n  w¨¨n
+w¨¥n¨À  w¨§n¨À   w¨¨n¨À
+w¨­  w¨¯  w¨°
+w¨±  w¨²  w¨³  w¨´
+
+x¨©  x¨ª  x¨«  x¨¬
+xi¨¡  xi¨¢  xi¨£  xi¨¤
+xi¨¡n  xi¨¢n  xi¨£n  xi¨¤n
+xi¨¡n¨À  xi¨¢n¨À  xi¨£n¨À  xi¨¤n¨À
+xi¨¡o  xi¨¢o  xi¨£o  xi¨¤o
+xi¨¥  xi¨¦   xi¨§  xi¨¨
+x¨©n  x¨ªn  x¨«n  x¨¬n
+x¨©n¨À  x¨ªn¨À  x¨«n¨À  x¨¬n¨À
+xi¨­n¨À  xi¨®n¨À  xi¨¯n¨À  xi¨°n¨À
+xi¨±  xi¨²  xi¨³  xi¨´
+x¨±  x¨²  x¨³  x¨´
+xu¨¡n  xu¨¢n  xu¨£n  xu¨¤n
+xu¨¥  xu¨¦  xu¨§  xu¨¨
+x¨±n  x¨²n  x¨´n
+
+y¨¡  y¨¢  y¨£  y¨¤
+y¨¡n  y¨¢n  y¨£n  y¨¤n
+y¨¡n¨À  y¨¢n¨À  y¨£n¨À  y¨¤n¨À
+y¨¡o  y¨¢o  y¨£o  y¨¤o
+y¨¥  y¨¦  y¨§  y¨¨
+y¨©  y¨ª  y¨«  y¨¬
+y¨©n  y¨ªn  y¨«n  y¨¬n
+y¨©n¨À  y¨ªn¨À  y¨«n¨À  y¨¬n¨À
+yo  y¨­
+yon¨À  y¨­n¨À  y¨®n¨À  y¨¯n¨À  y¨°n¨À
+y¨­u  y¨®u  y¨¯u  y¨°u
+yu  y¨±  y¨²  y¨³  y¨´
+yu¨¡n  yu¨¢n  yu¨£n  yu¨¤n
+yu¨¥  yu¨§  yu¨¨
+yun  y¨±n  y¨²n  y¨³n  y¨´n
+
+z¨¡  z¨¢  z¨£
+z¨»i  z¨¡i  z¨£i  z¨¤i
+z¨¡n  z¨¢n  z¨£n  z¨¤n
+z¨¡n¨À  z¨£n¨À  z¨¤n¨À
+z¨¡o  z¨¢o  z¨£o  z¨¤o
+z¨¥  z¨¦  z¨¨
+z¨¥i  z¨¦i
+z¨§n  z¨¨n
+z¨¥n¨À  z¨¨n¨À
+zh¨¡  zh¨¢  zh¨£  zh¨¤
+zh¨¡i  zh¨¢i  zh¨£i  zh¨¤i
+zh¨¡n  zh¨£n  zh¨¤n
+zh¨¡n¨À  zh¨£n¨À  zh¨¤n¨À
+zh¨¡o  zh¨¢o  zh¨£o  zh¨¤o
+zh¨¥  zh¨¦  zh¨§  zh¨¨
+zh¨¨i
+zh¨¥n  zh¨§n  zh¨¨n
+zh¨¥n¨À  zh¨§n¨À  zh¨¨n¨À
+zh¨©  zh¨ª  zh¨«  zh¨¬
+zh¨­n¨À  zh¨¯n¨À  zh¨°n¨À
+zh¨­u  zh¨®u  zh¨¯u  zh¨°u
+zh¨±  zh¨²  zh¨³  zh¨´
+zhu¨¡  zhu¨£
+zhu¨¡i  zhu¨¢i  zhu¨£i  zhu¨¤i
+zhu¨¡n  zhu¨£n  zhu¨¤n
+zhu¨¡n¨À  zhu¨£n¨À  zhu¨¤n¨À
+zhu¨©  zhu¨«  zhu¨¬
+zh¨±n  zh¨³n  zh¨´n
+zhu¨­  zhu¨®
+z¨©  z¨ª  z¨«  z¨¬
+z¨­n¨À  z¨¯n¨À  z¨°n¨À
+z¨­u  z¨¯u  z¨°u
+z¨±  z¨²  z¨³
+zu¨¡n  zu¨£n  zu¨¤n
+zu¨©  zu¨«  zu¨¬
+z¨±n  z¨³n  z¨´n
+zu¨­  zu¨®  zu¨¯  zu¨°

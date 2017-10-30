@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="http://libs.baidu.com/jquery/1.10.2/jquery.js"></script>
+    <style>
+    /*common*/
+    #readme{width: 500px;height: 200px;border: 1px solid #ccc; margin: 0 auto; }
+
+
+    .contain{/*margin: 50px 100px;*/  }
+    .tip-box{position: relative; font-size: 10px; border: 1px #78baec solid; width: 150px; min-height: 80px; background-color: rgb(236, 244, 249); }
+    .tip-box .tip-contain { /*border:1px #78baec solid*/width:140px; margin: 5px;}
+    .tip-box .tip-contain span.close {cursor: pointer; position: absolute; right: 5px; display: block; width: 15px;height: 15px; background:url("http://download.jqueryui.com/themeroller/images/ui-icons_78baec_256x240.png") -97px -131px no-repeat;}
+    .tip-box .tip-contain textarea { border: 1px #78baec solid; width: 130px; max-width: 130px; min-height: 50px; overflow-y:hidden; }
+    .tip-box .tip-contain input {border: 1px solid #78baec; width: 30px; height: 18px; padding: 0; margin: 0;margin-left: 105px;}
+    .tip-box i {display: block;right: -7px; background-color: #0f0; position:absolute; margin: 0;padding: 0; top:0; width: 15px; height: 15px; background:url("http://download.jqueryui.com/themeroller/images/ui-icons_78baec_256x240.png") -30px -21px no-repeat; margin-top: 5px;}
+    </style>
+</head>
+<body>
+<div id="readme">
+    <h1>Tips表单提交</h1>
+    <p><b>说明：</b></p>
+    <p>
+        定位位置：<span class="show-here"></span>
+    </p>
+</div>
+
+<div style="text-align: center;">
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+    <h1><a href="javascript:;">编辑</a></h1>
+</div>
+    <div class="contain hide">
+        <div class="tip-box">
+            <div class="tip-contain">
+                <span class="close"></span><span class="tip-title">原因</span>
+                <textarea name="" id="" cols="0" rows="0"></textarea>
+                <input type="button" class="submit" value="提交" />
+            </div>
+            <i></i>
+        </div>
+    </div>
+<hr>
+<img src="http://download.jqueryui.com/themeroller/images/ui-icons_78baec_256x240.png" alt="">
+    <script type="text/javascript">
+    $(function(){
+        $(document).click(function(){
+            $(".contain").hide();
+        });
+        $("h1>a").click(function(){
+            var x = $(this).offset().left;
+            var y = $(this).offset().top;
+            var vx = x - $(this).width() - 90;
+            $(".show-here").html(x+'--'+y);
+            $(".contain").attr("style","position:absolute; top:"+y+"px; left:"+vx+"px;");
+            $("span.close").click(function(){
+                $(".contain").hide();
+            });
+            return false;
+        });
+
+        $('.tip-box').click(function(){
+            return false;
+        });
+        
+    });
+
+
+    </script>
+</body>
+</html>
